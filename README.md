@@ -21,3 +21,8 @@ How to work with this:
 7. A notification will be sent to the owners to either accept or reject the pull request.
 8. Once a pull request is accepted/rejected you should be notified. If it is rejected, you will need to resolve any issues and requbmit the pull.
 
+##Notes:
+
+* Feel free to commit to your fork as much as you want. My rule of thumb is tto only commit "working code" or "good code"
+* Only make pull requests for "feature complete" user stories
+* All pull requests to Master will be rejected, so manage your release branches.
