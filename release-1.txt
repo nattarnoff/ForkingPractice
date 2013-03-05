@@ -1,0 +1,1 @@
+This is the release 1 text file. Feel free to edit it. We'll use it later to practice handling merge issues.
