@@ -3,7 +3,7 @@ ForkingPractice
 
 Practice branching and forking 
 
-This repo is to practice creating, manageing and working with forks and branches. Resources (Fork A Repo)[https://help.github.com/articles/fork-a-repo]
+This repo is to practice creating, manageing and working with forks and branches. Resources [Fork A Repo](https://help.github.com/articles/fork-a-repo)
 
 How to work with this:
 
