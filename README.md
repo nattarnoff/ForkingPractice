@@ -20,6 +20,7 @@ How to work with this:
 	- Add single files: $ git add FILEPATH/FILENAME 
 	- Or add all with: $ git add . 
 	- Commit: $ git commit -m "TYPE A MEANINGFUL MESSAGE"
+	- Push: $ git push
 6. You should now see a **Pull Request** button in Github now. Click it.
 7. A notification will be sent to the owners to either accept or reject the pull request.
 8. Once a pull request is accepted/rejected you should be notified. If it is rejected, you will need to resolve any issues and requbmit the pull.
